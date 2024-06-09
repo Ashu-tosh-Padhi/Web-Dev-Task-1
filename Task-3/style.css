@@ -187,7 +187,8 @@ input:checked + span {
 }
 
 .filter.active, .filter:hover {
-  background-color: #7862e2;
+  background-color: white;
+  color: black;
 }
 
 .delete-all {
@@ -200,5 +201,6 @@ input:checked + span {
 
 .delete-all:hover {
   border-radius: 5px;
-  background-color: #7862e2;
+  background-color: white;
+  color: black;
 }
